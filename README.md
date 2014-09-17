@@ -1,4 +1,5 @@
 # packer-centos-6
 ```sh
-vagrant up hfm4/centos6
+vagrant init hfm4/centos6
+vagrant up
 ```
