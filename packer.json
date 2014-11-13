@@ -27,7 +27,6 @@
       "type": "shell",
       "scripts": [
         "scripts/vagrant.sh",
-        "scripts/package.sh",
         "scripts/virtualbox.sh",
         "scripts/cleanup.sh"
       ],
